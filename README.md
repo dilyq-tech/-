@@ -2,6 +2,11 @@
 
 Адаптивный React-сайт с живой аквариумной симуляцией на Canvas. Экосистема хранится в `localStorage` и рассчитывает изменения за время между посещениями.
 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
 ## Запуск локально
 
 1. Установите Node.js 20.19+ или 22.12+.
